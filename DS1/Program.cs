@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace DS1
 {
@@ -34,7 +34,7 @@ namespace DS1
             //list.Add(70);
             //list.Add(30);
             //list.Add(56);
-            //list.delete(0);
+            //list.deleteatfirst();
             //list.Display();
 
             //sixth use case
@@ -63,19 +63,38 @@ namespace DS1
 
 
             //EIGHTH USE CASE
-            list.Add(70);
-            list.Add(30);
-            list.Add(56);
-            list.Display();
-            list.searchandinsert(30, 40);
-            list.Display();
-            
+            //list.Add(70);
+            //list.Add(30);
+            //list.Add(56);
+
+            //list.searchandinsert(70, 40);
+            //list.Display();
+
+            //NINTH USE CASE
+            //list.Add(70);
+            //list.Add(30);
+            //list.Add(40);
+            //list.Add(56);
+            //list.delete(30);
+            //list.Display();
+
+
+            //tenth use case
+            //list.Add(70);
+            //list.Add(30);
+            //list.Add(40);
+            //list.Add(56);
+            //list.sorting();
+            //list.Display();
 
 
 
-            //stack list = new stack();
-            //list.push(60);
-            //list.push(35);
+
+            stack Stack = new stack();
+            Stack.push(60);
+            Stack.push(35);
+            Stack.display();
+            Stack.peek();
 
         }
     }

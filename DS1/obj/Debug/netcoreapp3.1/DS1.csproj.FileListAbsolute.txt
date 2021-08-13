@@ -1,0 +1,14 @@
+C:\Users\kotha\source\repos\DS1\bin\Debug\netcoreapp3.1\DS1.exe
+C:\Users\kotha\source\repos\DS1\bin\Debug\netcoreapp3.1\DS1.deps.json
+C:\Users\kotha\source\repos\DS1\bin\Debug\netcoreapp3.1\DS1.runtimeconfig.json
+C:\Users\kotha\source\repos\DS1\bin\Debug\netcoreapp3.1\DS1.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\DS1\bin\Debug\netcoreapp3.1\DS1.dll
+C:\Users\kotha\source\repos\DS1\bin\Debug\netcoreapp3.1\DS1.pdb
+C:\Users\kotha\source\repos\DS1\obj\Debug\netcoreapp3.1\DS1.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\DS1\obj\Debug\netcoreapp3.1\DS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotha\source\repos\DS1\obj\Debug\netcoreapp3.1\DS1.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\DS1\obj\Debug\netcoreapp3.1\DS1.AssemblyInfo.cs
+C:\Users\kotha\source\repos\DS1\obj\Debug\netcoreapp3.1\DS1.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\DS1\obj\Debug\netcoreapp3.1\DS1.dll
+C:\Users\kotha\source\repos\DS1\obj\Debug\netcoreapp3.1\DS1.pdb
+C:\Users\kotha\source\repos\DS1\obj\Debug\netcoreapp3.1\DS1.genruntimeconfig.cache
